@@ -1,12 +1,4 @@
 # Data Professional Survey Breakdown 
-### Table of Content
-
-  - [Project Overview](#project-overview)
-  - [Skills and Knowledge demonstrated](#Skills-and-Knowledge-demonstrated)
-  - [Data Visualization (Power BI)](#Data-Visualization-(Power-BI))
-  - [Results and Findings](#Results-and-Findings)
-  - [Recommendation](#Recommendation)
-  - [Conclusion](#Conclusion)
 
 ### Project Overview
 Thier have been issues in understanding the data profession statistical survey, such as the type of programming language used, the ratio of men to women in the field and the average salary in data professsion in different location. With the help of this data set, we can get insight and idea, using visualization tools such as Power BI.
